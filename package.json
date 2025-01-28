@@ -1,0 +1,11 @@
+{
+  "name": "node-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "nagarjunayadavk@gmail.com",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
